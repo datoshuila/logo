@@ -1,6 +1,6 @@
 # Logotipo y Favicon
 
-Logotipos y favicon del Sistema de Información Regional
+Logotipos y favicon del Sistema de Información Regional. Archivo en formato Adobe Ilustrator disponible [aquí](logo.ai)
 
 ![](logo.png)
 
