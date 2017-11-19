@@ -12,7 +12,7 @@ Favicon
 
 # Blanco y Negro
 
-![](logo wnb.png)
+![](`logo wnb.png`)
 
 Logo del SIR Huila
 
