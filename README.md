@@ -12,20 +12,20 @@ Favicon
 
 # Blanco y Negro
 
-![]("logo wnb.png")
+![](logo_wnb.png)
 
 Logo del SIR Huila
 
-![](favicon wnb.png)
+![](favicon_wnb.png)
 
 Favicon
 
 # Negro y Blanco
 
-![](logo bnw.png)
+![](logo_bnw.png)
 
 Logo del SIR Huila
 
-![](favicon bnw.png)
+![](favicon_bnw.png)
 
 Favicon
